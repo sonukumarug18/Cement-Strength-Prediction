@@ -1,4 +1,4 @@
-# Porject Title : Cement Strength Prediction
+# Project Title : Cement Strength Prediction
 ## Understanding the dataset
 **Cement (component 1)** (kg in a m^3 mixture): The amount of cement, measured in kilograms, present in one cubic meter of the concrete mixture. Cement is a binding material responsible for providing strength and durability to concrete.
 
